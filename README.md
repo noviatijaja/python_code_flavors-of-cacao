@@ -1,4 +1,4 @@
-# Flavors of Cacao: Analyzing Chocolate Ratings, Ingredients, and Regional Trends
+# Flavors of Cacao: Uncovering the Factors Behind Chocolate Ratings
 
 ## 📌 Project Overview  
 This project examines the **factors influencing chocolate ratings**, including **cocoa percentage, ingredient composition, company location, and bean origin**. Using expert reviews from the **Flavors of Cacao Chocolate Database**, this study uncovers patterns in chocolate quality and provides **data-driven insights** for chocolate makers, researchers, and consumers.
